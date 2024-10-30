@@ -15,7 +15,7 @@
 ------
 **Este es el centro donde estoy desarrollando mi formación**
 
- [[La Conservera Murcia](https://sites.google.com/view/fplaconservera)]
+ [La Conservera Murcia](https://sites.google.com/view/fplaconservera)]
 
 -------
 ## 💻 Tecnologías que quiero formarme:
