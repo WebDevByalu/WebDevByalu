@@ -13,9 +13,9 @@
    - Sistemas informáticos.
    - Itinerario para la empleabilidad.
 ------
-** Este es el centro donde estoy desarrollando mi formación**
+**Este es el centro donde estoy desarrollando mi formación**
 
-   - [[Página oficial de la institución](https://sites.google.com/view/fplaconservera)](#Centro Integrado la Conservera de Murcia)
+ [[La Conservera Murcia](https://sites.google.com/view/fplaconservera)]
 
 -------
 ## 💻 Tecnologías que quiero formarme:
